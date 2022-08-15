@@ -9,6 +9,12 @@
     ],
     "homepage": "https://github.com/fidum/laravel-dashboard-chart-tile",
     "license": "MIT",
+    "repositories": [
+        {
+            "url": "https://github.com/leonelngande/consoletvs-charts.git",
+            "type": "git"
+        }
+    ],
     "authors": [
         {
             "name": "Daniel Mason",
